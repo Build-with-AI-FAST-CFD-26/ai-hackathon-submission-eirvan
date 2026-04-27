@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/p4udQv-V)
 # [Enter Your Project Name] - Build with AI Hackathon 2026
 **Team Name:** [Insert from Registration]
-**Team Members:** [Member 1, Member 2, Member 3]
+**Team Members:** [Aqsa Zulfiqar,Saleha Eman, Tayyab Ashfaq]
 
 ## 1. Project Overview
 Provide a 2-3 sentence summary of the problem you are solving and your AI-powered solution.
